@@ -3,7 +3,7 @@ from functools import lru_cache
 from tabulate import tabulate
 import matplotlib.pyplot as plt
 
-from splay_tree_cache import st_cache
+from cache_splay_tree import st_cache
 
 
 @lru_cache

@@ -1,7 +1,7 @@
 import random
 import timeit
 
-from cache import LRUCache
+from cache_lru import LRUCache
 
 
 def count_sum(array, L, R):
